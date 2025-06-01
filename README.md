@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![WPLbadge](https://github.com/user-attachments/assets/12ca6a02-c909-4508-8075-454026f7467d)]([https://your-license-page-url.com](https://github.com/sunflowermarigold/sunflowermarigold/blob/main/LICENSE.md))
-
-
+[![WPLbadge](https://github.com/user-attachments/assets/0e94f8ad-183c-4473-928a-d75b9d56e5ab)](https://github.com/sunflowermarigold/sunflowermarigold/blob/main/LICENSE.md)
 
 <!--
 **sunflowermarigold/sunflowermarigold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
