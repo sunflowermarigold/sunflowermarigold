@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🌻
 
 [![WPLbadge](https://github.com/user-attachments/assets/0e94f8ad-183c-4473-928a-d75b9d56e5ab)](https://github.com/sunflowermarigold/sunflowermarigold/blob/main/LICENSE.md)
 
